@@ -1,8 +1,7 @@
 left_links:
   - name: About
     link: /about/
-  - name: Contact
-    link: /contact/
+ 
 right_links:
   - name:
     link: 
