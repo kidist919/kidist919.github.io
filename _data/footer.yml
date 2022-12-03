@@ -5,19 +5,16 @@ left_links:
     link: /contact/
 right_links:
   - name:
-    link: https://facebook.com/cloudcannon
+    link: 
     new_window: false
     social_icon: Facebook
   - name:
-    link: https://twitter.com/cloudcannon
+    link: 
     social_icon: Twitter
     new_window: false
   - name:
-    link: https://youtube.com/c/cloudcannon
-    social_icon: YouTube
+    link: 
+    social_icon: Github
     new_window: false
-  - name:
-    link: https://instagram.com/
-    social_icon: Instagram
-    new_window: false
+  
 
